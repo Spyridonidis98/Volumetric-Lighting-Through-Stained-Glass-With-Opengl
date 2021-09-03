@@ -6,5 +6,4 @@ to run the executable visual studio must be installed.
 you can move the camera with a,s,d,w 
 
 move the Suzanne right or left by pressing  c or v
-
 block the rays from left or right window by pressing z or x 
